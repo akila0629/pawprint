@@ -530,7 +530,7 @@
             left: 0;
             background-color: transparent;
             width: 100%;
-            height: 40vh;
+            height: 200px;
             /* 禁止移動設備上的滑動事件 */
         }
 
